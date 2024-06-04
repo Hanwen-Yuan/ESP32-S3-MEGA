@@ -1,0 +1,2 @@
+# ESP32-S3-MEGA
+ESP32-S3-MEGA based on ESP32-S3 Soc
